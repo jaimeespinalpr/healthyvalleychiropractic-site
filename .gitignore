@@ -1,2 +1,6 @@
 .DS_Store
 Thumbs.db
+site/
+__pycache__/
+*.pyc
+mirror_failures.log

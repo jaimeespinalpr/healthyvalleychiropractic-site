@@ -1,9 +1,11 @@
-# Healthy Valley Chiropractic - Static Snapshot
+# Healthy Valley Chiropractic - Static Mirror
 
-This repository hosts a static snapshot of the homepage for deployment via GitHub Pages.
+This repository hosts a broad static mirror of `https://www.healthyvalleychiropractic.com/`
+for deployment through GitHub Pages.
 
-## Files
-- `index.html`: Homepage snapshot fetched from https://www.healthyvalleychiropractic.com/
+## Notes
+- The mirror includes many pages and static assets (HTML, CSS, JS, images, fonts).
+- Some dynamic server-side functionality (forms, APIs, admin routes) cannot be mirrored exactly.
 
 ## Publish
-This repo is configured to publish from `main` branch root (`/`).
+GitHub Pages is configured to publish from the `main` branch root (`/`).

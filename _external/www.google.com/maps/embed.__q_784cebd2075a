@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="AQyiyR19KwelHsVeYtcnbA">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["9930061005075140683","3781689560041324730"],"/g/11qn0kn__9",null,[407918109,3516400809],null,null,null,null,null,null,null,null,null,null,"gcid:chiropractor"],0,0,null,null,0,null,0]]]],null,["en","us"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"tjKmae6zM_OSwbkPqMnWkAU",null,null,null,[[[3592.120368016191,-77.85664869999999,40.7918109],[0,0,0],null,13.10000038146973],null,0,[["0x89cea9df5576504b:0x347b429e5d1100ba","Healthy Valley Chiropractic, 403 S Allen St # 112A, State College, PA 16801",[40.7918109,-77.85664869999999],"3781689560041324730"],"Healthy Valley Chiropractic",["403 S Allen St # 112A","State College, PA 16801"],5,"171 reviews","https://search.google.com/local/reviews?placeid=ChIJS1B2Vd-pzokRugARXZ5CezQ\u0026q=Healthy+Valley+Chiropractic\u0026hl=en\u0026gl=US",null,"(814) 810-3395",null,null,null,["https://www.healthyvalleychiropractic.com/","healthyvalleychiropractic.com",null,null,",AOvVaw2F9j-s6xaqqqF6CJDeaDNZ,,0ahUKEwju5tnaw4KTAxVzSTABHaikFVIQ61gIEygO,"],"Chiropractor","403 S Allen St # 112A, State College, PA 16801",null,null,null,null,null,null,null,null,null,null,null,null,null,"ChIJS1B2Vd-pzokRugARXZ5CezQ",null,null,"0ahUKEwju5tnaw4KTAxVzSTABHaikFVIQ8BcIAigA",null,null,["tel:+18148103395"],null,null,null,1,["0ahUKEwju5tnaw4KTAxVzSTABHaikFVIQqtMBCAsoCA",["87G4Q4RV+P8"],["Q4RV+P8 State College, Pennsylvania"],3],[[["Monday",1,[2026,3,2],[["8–11:30 AM",[[8],[11,30]]],["3–5:30 PM",[[15],[17,30]]]],0,1],["Tuesday",2,[2026,3,3],[["3–5:30 PM",[[15],[17,30]]]],0,1],["Wednesday",3,[2026,3,4],[["8–11:30 AM",[[8],[11,30]]]],0,1],["Thursday",4,[2026,3,5],[["3–5:30 PM",[[15],[17,30]]]],0,1],["Friday",5,[2026,3,6],[["8–11:30 AM",[[8],[11,30]]]],0,1],["Saturday",6,[2026,3,7],[["Closed"]],0,2],["Sunday",7,[2026,3,8],[["Closed"]],0,2]],[["Monday",1,[2026,3,2],[["8–11:30 AM",[[8],[11,30]]],["3–5:30 PM",[[15],[17,30]]]],0,1],null,5,null,["Closed · Opens 3 PM Tue",[[0,6,[null,[4292621870,4294097077]]]]],["Closed · Opens 3 PM Tue",[[0,6,[null,[4292621870,4294097077]]]]],null,[24],["Closed",[[0,6,[null,[4292621870,4294097077]]]]]],1,null,null,null,1]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/64/3a/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/64/3a/init_embed.js" nonce="AQyiyR19KwelHsVeYtcnbA" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en&amp;region=us&amp;callback=onApiLoad" nonce="AQyiyR19KwelHsVeYtcnbA" async defer></script>
+  </body>
+</html>

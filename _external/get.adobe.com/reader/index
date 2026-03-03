@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Adobe - Download Adobe Acrobat Reader</title><meta name="description" content="Download free Adobe Acrobat Reader software for your Windows, Mac OS and Android devices to view, print, and comment on PDF documents."><script src="https://use.typekit.net/bxf0ivf.js"></script><script>try{Typekit.load()}catch(o){console.error("error loading typekit fonts")}</script><link rel="icon" type="image/vnd.microsoft.icon" href="/reader/favicon.ico"><style>.no-script {
+            font-size: 2em;
+            margin: 0.67em 0;
+        }
+        body{
+            background-color: #f5f5f5;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+        }</style><script>!function(){var{host:e}=window.location,a=a=>e.indexOf(a)>-1,d="test";if(["dc.dev.dexilab.acrobat.com","dev.acrobat.adobe.com","get.devdc.adobe.com"].find(a))d="dev";else if(["dc.stage.acrobat.com","get.stagedc.adobe.com","stage.acrobat.adobe.com"].find(a))d="stage";else if(["documentcloud.adobe.com","acrobat.adobe.com","get4.adobe.com","get.adobe.com","get2.adobe.com"].find(a))d="prod";var o=window.location.pathname.toLowerCase();const c="true"===new URLSearchParams(window.location.search).get("prodDpaas");var t=["jp","de","it","fr","es","uk","ca"].filter(e=>`/${e}/reader`==o||`/${e}/reader/`==o).length>0,r="https://assets.adobedtm.com/d4d114c60e50/a0e989131fd5/launch-2c94beadc94f-development.min.js",n="72b074a6-76d2-43de-a210-124acc734f1c",s="bc8dfa27-29cc-625c-22ea-f7ccebfc6231";if("prod"===d||c)r="https://assets.adobedtm.com/d4d114c60e50/a0e989131fd5/launch-5dd5dd2177e6.min.js",n="913eac4d-900b-45e8-9ee7-306216765cd2",s="a77c9437-77c0-1012-2234-49f047aa80dd";window.marketingtech={adobe:{launch:{url:r,controlPageLoad:!0},alloy:{edgeConfigId:n},target:t,audienceManager:!1},sophia:!1},window.targetPageParamsAll=()=>({at_property:s,targetTest:"true"})}()</script><script src="https://www.adobe.com/marketingtech/main.standard.min.js"></script><style>.spinner-border-bootstrap-copy-for-prehiding {
+            display: inline-block;
+            width: 2rem;
+            height: 2rem;
+            vertical-align: -0.125em;
+            border: 0.25em solid currentColor;
+            border-right-color: transparent;
+            border-radius: 50%;
+            -webkit-animation: .75s linear infinite spinner-border;
+            animation: .75s linear infinite spinner-border;
+        }
+
+        .spinner-wrapper-for-prehiding {
+            opacity: 0;
+            display: none;
+            visibility: hidden;
+            color: #0d6efd !important;
+            left: calc(50vw - 1rem);
+            top: calc(50vh - 1rem);
+            position: relative;
+            width: 0;
+            height: 0;
+        }</style><script defer="defer" src="/reader/c5af3d2ccb/7452.js"></script><script defer="defer" src="/reader/c5af3d2ccb/7505.js"></script><script defer="defer" src="/reader/c5af3d2ccb/5984.js"></script><script defer="defer" src="/reader/c5af3d2ccb/2.js"></script><script defer="defer" src="/reader/c5af3d2ccb/9417.js"></script><script defer="defer" src="/reader/c5af3d2ccb/index.js"></script><script defer="defer" src="/reader/c5af3d2ccb/bootstrap.js"></script></head><body><div class="spinner__ spinner-wrapper-for-prehiding"><div class="spinner-border-bootstrap-copy-for-prehiding spinner__" role="status"></div></div><div id="app"></div><div class="no-script" style="display: none;text-align:center;" id="appie"><div>This website no longer works on Internet Explorer due to end of support.</div><div style="font-style: italic;">Please use Microsoft Edge or another supported browser.</div></div><script>if("Internet Explorer"===function(e){switch(!0){case e.indexOf("edge")>-1:return"MS Edge (EdgeHtml)";case e.indexOf("edg")>-1:return"MS Edge Chromium";case e.indexOf("opr")>-1&&!!window.opr:return"opera";case e.indexOf("chrome")>-1&&!!window.chrome:return"chrome";case e.indexOf("trident")>-1:return"Internet Explorer";case e.indexOf("firefox")>-1:return"firefox";case e.indexOf("safari")>-1:return"safari";default:return"other"}}(window.navigator.userAgent.toLowerCase()))document.getElementById("appie").style.removeProperty("display")</script><noscript><h1 class="no-script" style="text-align:center">JavaScript is currently disabled in your browser and is required to download Adobe Acrobat Reader.</h1></noscript></body></html>
